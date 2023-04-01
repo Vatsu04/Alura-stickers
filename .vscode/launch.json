@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "Alura stickers_bae18a46"
+        },
+        {
+            "type": "java",
+            "name": "GeradoraDeFigurinhas",
+            "request": "launch",
+            "mainClass": "GeradoraDeFigurinhas",
+            "projectName": "Alura stickers_bae18a46"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Alura stickers_bae18a46"
+        },
+        {
+            "name": "My Project",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "com.example.MyApp",
+            "console": "externalTerminal"
+        }
+    ]
+}
